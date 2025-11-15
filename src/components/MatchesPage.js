@@ -30,10 +30,10 @@ const MatchesPage = ({ matches, onSelectMatch, registeredTeams = {} }) => {
           {/* User Profile */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-green-400 to-blue-500 flex items-center justify-center text-white font-bold">
-              BS
+              NK
             </div>
             <div>
-              <p className="text-white text-sm font-medium">Bhupender singh</p>
+              <p className="text-white text-sm font-medium">NK ABHIRAJ</p>
             </div>
           </div>
           {/* Balance */}
